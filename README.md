@@ -3,7 +3,7 @@ DeepHawkes
 This repository is an implementation of our proposed DeepHawkes model in the following paper:
  
     Qi Cao, Huawei Shen, Keting Cen, Wentao Ouyang, Xueqi Cheng. 2017. DeepHawkes: Bridging the Gap between 
-    Prediction and Understanding of Information Cascades. In Proceedings of CIKM'17, Singapore., November 
+    Prediction and Understanding of Information Cascades. In Proceedings of CIKM'17, Singapore., November 
     6-10, 2017, 11 pages.
  
 For more details, you can download and read this paper.
@@ -13,7 +13,9 @@ DataSet
 ----------------------------------- 
 We publish the Sina Weibo Dataset used in our paper,i.e., dataset_weibo.txt. It contains 119,313 messages in June 1, 2016.
 Each line contains the information of a certain message, the format of which is:
-  <message_id>\tab<user_id>\tab<retweet_number>\tab<retweets>
+
+    <message_id>\tab<user_id>\tab<retweet_number>\tab<retweets>
+    
 <message_id>  
 
 
