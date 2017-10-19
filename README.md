@@ -2,7 +2,9 @@ DeepHawkes
 ===================================
 This repository is an implementation of our proposed DeepHawkes model in the following paper:
  
-    Qi Cao, Huawei Shen, Keting Cen, Wentao Ouyang, Xueqi Cheng. 2017. DeepHawkes: Bridging the Gap between Prediction and    Understanding of Information Cascades. In Proceedings of CIKM'17, Singapore., November 6-10, 2017, 11 pages.
+    Qi Cao, Huawei Shen, Keting Cen, Wentao Ouyang, Xueqi Cheng. 2017. DeepHawkes: Bridging the Gap between 
+    Prediction and    Understanding of Information Cascades. In Proceedings of CIKM'17, Singapore., November 
+    6-10, 2017, 11 pages.
  
 For more details, you can download and read this papers.
  
