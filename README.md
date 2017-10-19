@@ -13,8 +13,8 @@ DataSet
 ----------------------------------- 
 We publish the Sina Weibo Dataset used in our paper,i.e., dataset_weibo.txt. It contains 119,313 messages in June 1, 2016.
 Each line contains the information of a certain message, the format of which is:
-<message_id>\tab<user_id>\tab<retweet_number>\tab<retweets>
-### <message_id>  
+  <message_id>\tab<user_id>\tab<retweet_number>\tab<retweets>
+<message_id>  
 
 
                                                                                                                                                                
