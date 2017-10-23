@@ -36,21 +36,14 @@ command:
     python gen_sequence.py
     #you can configure parameters and filepath in the file of "config.py"
  
-2.initialize the embeddings of nodes.
-command:
-
-    cd gen_sequence
-    python gen_NodeEmbedding.py
-    #similar, you can configure parameters and filepath in the file of "config.py"
- 
-3.trainsform the datasets to the format of ".pkl"
+2.trainsform the datasets to the format of ".pkl"
 command:
 
     cd deep_learning
     python preprocess.py
     #you can configure parameters and filepath in the file of "config.py"
  
-4.train DeepHawkes
+3.train DeepHawkes
 command:
 
     cd deep_learning
