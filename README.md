@@ -48,4 +48,4 @@ command:
 
     cd deep_learning
     python run_sparse.py learning_rate learning_rate_for_embeddings l2 dropout
-    #exsamples  python -u run_sparse.py 0.001 0.001 0.001 1.0
+    #exsamples  python -u run_sparse.py 0.005 0.0001 0.02 0.8
