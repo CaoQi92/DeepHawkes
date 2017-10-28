@@ -23,7 +23,9 @@ Each line contains the information of a certain message, the format of which is:
     the entile path for this retweet, the format of which is <user1>/<user2>/......<user n>:<retweet_time>.
     
 This dataset is limited to only use in research. And when you use this dataset, please cite our paper as listed above.
+
 Downlowd link: https://pan.baidu.com/s/1c2rnvJq 
+
 password: ijp6
 
                                                                                                                                                                
