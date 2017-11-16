@@ -6,7 +6,9 @@ This repository is an implementation of our proposed DeepHawkes model in the fol
     Prediction and Understanding of Information Cascades. In Proceedings of CIKM'17, Singapore., November 
     6-10, 2017, 11 pages.
  
-For more details, you can download and read this paper.
+For more details, you can download this paper from ACM DIGITAL LIBRARY.
+The following url is the corresponding download link:
+https://dl.acm.org/citation.cfm?id=3132973&CFID=1005695721&CFTOKEN=57128415
  
 
 DataSet
